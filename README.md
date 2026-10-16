@@ -5,10 +5,13 @@ the order to its return to the plant.** It started as a university team project;
 rest of the team stepped away, and since July 2026 I have been its sole developer and owner, turning
 it into a product deployed for a glass manufacturer.
 
-[Website](https://reloda.es) · [Live demo](https://app.reloda.es) (invented data, "Enter as visitor")
+**[reloda.es](https://reloda.es)** — the full product: every module and how the whole chain works
+(in Spanish; your browser's translate works well) ·
+**[Live demo](https://app.reloda.es)** — try it yourself with invented data, "Entrar como visitante"
+(Enter as visitor)
 
-> The source code is private because Reloda is a commercial product. This page explains how it is
-> built. I'm happy to walk through the code in an interview.
+> The source code is private because Reloda is a commercial product. The website shows *what* it
+> does; this page explains *how* it is built. I'm happy to walk through the code in an interview.
 
 <p>
   <img src="screenshots/control-panel.png" alt="Control panel: what needs attention today" width="49%">
